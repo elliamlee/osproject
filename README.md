@@ -2,7 +2,6 @@
 ## 1.	파일 시스템 설계 
     <div>
     <img width ="200" src= "https://user-images.githubusercontent.com/34092568/50624157-96a23280-0f60-11e9-8b9b-a29e39a0875c.png">
-    
     </div>
     
     이와 같이 각 노드들은 3개의 링크를 가지고 있다.
