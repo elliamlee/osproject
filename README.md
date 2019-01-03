@@ -3,6 +3,7 @@
     <div>
     <img src="https://user-images.githubusercontent.com/34092568/50624157-96a23280-0f60-11e9-8b9b-a29e39a0875c.png"></img>
     </div>
+    ![os1](https://user-images.githubusercontent.com/34092568/50624157-96a23280-0f60-11e9-8b9b-a29e39a0875c.png)
     
     이와 같이 각 노드들은 3개의 링크를 가지고 있다.
     전 노드를 가르키는prev, 다음 노드를가르키는 next, 마지막으로 parent를 가르키는 parent.
