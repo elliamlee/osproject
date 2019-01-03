@@ -2,7 +2,7 @@
 
 ## 1.	파일 시스템 설계 
 
-<p><img src="https://user-images.githubusercontent.com/34092568/50624157-96a23280-0f60-11e9-8b9b-a29e39a0875c.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50624157-96a23280-0f60-11e9-8b9b-a29e39a0875c.png"></p>
     
     이와 같이 각 노드들은 3개의 링크를 가지고 있다.
     전 노드를 가르키는prev, 다음 노드를가르키는 next, 마지막으로 parent를 가르키는 parent.
@@ -12,7 +12,7 @@
     이는 파일이나 디렉토리의 권한과 크기 등의 파일 정보를 포함한다.
     위의 설계를 바탕으로 구성한 기본 함수는 다음과 같고 이 자료구조를 토대로 파일 시스템을 구현하였다. 
 
-<p><img src="https://user-images.githubusercontent.com/34092568/50625459-ad01bb80-0f6b-11e9-9672-aad5ef04d37c.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50625459-ad01bb80-0f6b-11e9-9672-aad5ef04d37c.png"></p>
 
 ## 2.	FUSE를 이용한 파일시스템 구현
 
