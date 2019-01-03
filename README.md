@@ -16,7 +16,7 @@
 
 ## 2.	FUSE를 이용한 파일시스템 구현
 
-<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50625542-2ef1e480-0f6c-11e9-8ea8-fdddd5210d5d.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/34092568/50625542-2ef1e480-0f6c-11e9-8ea8-fdddd5210d5d.png" width="500"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/34092568/50625543-2ef1e480-0f6c-11e9-805e-b83b55dbe34b.png"></p>
 
 
